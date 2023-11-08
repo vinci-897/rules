@@ -1,6 +1,7 @@
 # ZJU 内网
 # 校内直连，校外通过内网穿透或 RVPN 访问
 
+DOMAIN-SUFFIX,wjn233.asia
 # 域名
 DOMAIN-SUFFIX,zju.edu.cn
 
