@@ -1,10 +1,10 @@
 # ZJU 内网
 # 校内直连，校外通过内网穿透或 RVPN 访问
 
-DOMAIN-SUFFIX,speedtest
-DOMAIN-SUFFIX,edu.cn
 DOMAIN-KEYWORD,ipv6
 DOMAIN-SUFFIX,wjn233.asia
+DOMAIN-SUFFIX,speedtest
+DOMAIN-SUFFIX,edu.cn
 # 域名
 DOMAIN-SUFFIX,zju.edu.cn
 
